@@ -1,0 +1,21 @@
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "10"; */
+"10.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item1"; ObjectID = "11"; */
+"11.title" = "Item1";
+
+/* Class = "NSMenuItem"; title = "Item2"; ObjectID = "12"; */
+"12.title" = "Item2";
+
+/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "13"; */
+"13.title" = "Item3";
+
+/* Class = "NSButtonCell"; title = "Eject"; ObjectID = "21"; */
+"21.title" = "Eject";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "22"; */
+"22.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "Eject Disc In:"; ObjectID = "25"; */
+"25.title" = "Eject Disc In:";

@@ -1,0 +1,22 @@
+// Main Panel
+
+/* Class = "NSTextFieldCell"; title = "Erase Disc In:"; ObjectID = "39"; */
+"39.title" = "Wis schijf in:";
+
+/* Class = "NSTextFieldCell"; title = "Erase Method:"; ObjectID = "41"; */
+"41.title" = "Wis methode:";
+
+/* Class = "NSButtonCell"; title = "Quickly"; ObjectID = "17"; */
+"17.title" = "Snel";
+
+/* Class = "NSButtonCell"; title = "Completely"; ObjectID = "16"; */
+"16.title" = "Compleet";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "37"; */
+"37.title" = "Sluit";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "42"; */
+"42.title" = "Annuleer";
+
+/* Class = "NSButtonCell"; title = "Erase"; ObjectID = "40"; */
+"40.title" = "Wis";

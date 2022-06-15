@@ -1,0 +1,22 @@
+// Main Panel
+
+/* Class = "NSWindow"; title = "Recorder Info"; ObjectID = "5"; */
+"5.title" = "Паспорт привода";
+
+/* Class = "NSTextFieldCell"; title = "Product:"; ObjectID = "42"; */
+"42.title" = "Модель:";
+
+/* Class = "NSTextFieldCell"; title = "Vendor:"; ObjectID = "44"; */
+"44.title" = "Производитель:";
+
+/* Class = "NSTextFieldCell"; title = "Writes:"; ObjectID = "38"; */
+"38.title" = "Запись:";
+
+/* Class = "NSTextFieldCell"; title = "Connection:"; ObjectID = "36"; */
+"36.title" = "Интерфейс:";
+
+/* Class = "NSTextFieldCell"; title = "Cache:"; ObjectID = "46"; */
+"46.title" = "Кеш:";
+
+/* Class = "NSTextFieldCell"; title = "Buffer Underrun Prevention:"; ObjectID = "48"; */
+"48.title" = "Защита от опустошения буфера:";

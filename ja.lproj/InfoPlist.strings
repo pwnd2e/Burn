@@ -1,0 +1,10 @@
+/* Basic info */
+NSHumanReadableCopyright = "Kiwi Fruitware 2019";
+CFBundleName = "Burn";
+CFBundleDisplayName = "Burn";
+CFBundleHelpBookName = "Burn ヘルプ";
+
+/* File types */
+"Image document" = "ディスクイメージ";
+"Burn document" = "Burn";
+"Theme document" = "テーマ";

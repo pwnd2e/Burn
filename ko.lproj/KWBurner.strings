@@ -1,0 +1,51 @@
+// Main Panel
+
+/* Class = "NSTextFieldCell"; title = "Burn Disc In:"; ObjectID = "97"; */
+"97.title" = "장치 선택:";
+
+/* Class = "NSTextFieldCell"; title = "Speed:"; ObjectID = "90"; */
+"90.title" = "속도:";
+
+/* Class = "NSMenuItem"; title = "Maximum Possible"; ObjectID = "20"; */
+"20.title" = "가능한 최대 속도";
+
+/* Class = "NSButtonCell"; title = "Erase disc before burning"; ObjectID = "88"; */
+"88.title" = "굽기 전에 디스크 지우기";
+
+/* Class = "NSButtonCell"; title = "Allow more sessions"; ObjectID = "98"; */
+"98.title" = "추가 세션 허용";
+
+/* Class = "NSButtonCell"; title = "Combine other sessions"; ObjectID = "99"; */
+"99.title" = "세션 병합";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "95"; */
+"95.title" = "닫기";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "93"; */
+"93.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "Burn"; ObjectID = "89"; */
+"89.title" = "디스크 굽기";
+
+// Sessions Panel
+
+/* Class = "NSWindow"; title = "Multiple Sessions"; ObjectID = "50"; */
+"50.title" = "복수 세션";
+
+/* Class = "NSTextFieldCell"; title = "Include these sessions:"; ObjectID = "100"; */
+"100.title" = "다음 세션 포함:";
+
+/* Class = "NSButtonCell"; title = "Data session"; ObjectID = "80"; */
+"80.title" = "데이터 세션";
+
+/* Class = "NSButtonCell"; title = "Audio session"; ObjectID = "81"; */
+"81.title" = "오디오 세션";
+
+/* Class = "NSButtonCell"; title = "Video session"; ObjectID = "82"; */
+"82.title" = "비디오 세션";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "102"; */
+"102.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "101"; */
+"101.title" = "승인";

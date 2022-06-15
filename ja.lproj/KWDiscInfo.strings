@@ -1,0 +1,16 @@
+// Main Panel
+
+/* Class = "NSWindow"; title = "Disc Info"; ObjectID = "5"; */
+"5.title" = "ディスクの情報";
+
+/* Class = "NSTextFieldCell"; title = "Kind:"; ObjectID = "36"; */
+"36.title" = "種類:";
+
+/* Class = "NSTextFieldCell"; title = "Free space:"; ObjectID = "28"; */
+"28.title" = "空き容量:";
+
+/* Class = "NSTextFieldCell"; title = "Used space:"; ObjectID = "34"; */
+"34.title" = "使用状況:";
+
+/* Class = "NSTextFieldCell"; title = "Writable:"; ObjectID = "32"; */
+"32.title" = "書き込み:";

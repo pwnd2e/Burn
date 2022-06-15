@@ -1,0 +1,13 @@
+// Main Panel
+
+/* Class = "NSTableColumn"; headerCell.title = "Volume Name"; ObjectID = "12"; */
+"12.headerCell.title" = "Nome do Volume";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "11"; */
+"11.headerCell.title" = "Tamanho";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "42"; */
+"42.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "Choose"; ObjectID = "40"; */
+"40.title" = "Selecionar";

@@ -1,0 +1,41 @@
+Instructions (and comments):
+
+I will describe how I compiled them, you are free to change it according to your needs.
+
+* cdrtools-2.01.01:
+I aplied a patch to the source, making mkisofs able to create DVD-Audio iso files. (patch in root folder: 'mkisofs-2.01.01-dvd-audio.diff').
+
+Commands:
+bash#: make
+
+* dvdauthor-0.6.11 (libdvdread):
+
+Commands:
+bash#: ./configure
+bash#: make
+
+* ffmpeg-4.1.4 (yasm 1.3.0):
+
+Commands:
+bash#: ./configure --disable-muxers --disable-encoders --enable-muxer=avi --enable-muxer=mpeg1vcd --enable-muxer=mpeg2dvd --enable-muxer=mpeg2svcd --enable-muxer=wav --enable-muxer=mp3 --enable-muxer=flac --enable-encoder=ac3 --enable-encoder=mp2 --enable-encoder=libmp3lame --enable-encoder=flac --disable-protocols --enable-protocol=file --enable-protocol=pipe --disable-bsfs --enable-libmp3lame --disable-shared --enable-gpl --enable-encoder=mpeg4 --enable-encoder=mpeg1video --enable-encoder=mpeg2video --enable-muxer=image2 --enable-encoder=mjpeg --disable-bzlib --disable-network --enable-encoder=pcm_s16le --enable-pthreads --disable-filters --enable-filter=pad --enable-filter=scale --enable-filter=crop --enable-muxer=pcm_s16le --target-os=darwin --enable-filter=aresample --enable-encoder=pcm_s24le --extra-ldflags=-L/usr/local/lib --extra-cflags=-I/usr/local/include
+bash#: make
+bash#: sudo make install
+
+* lame-3.100:
+Lame is compiled staticly and linked into ffmpeg. 
+
+Commands:
+bash#: ./configure --disable-shared --disable-frontend
+bash#: make
+
+* vcdimager-0.7.23:
+Since Burn 2.0u we're using the command line frontend (was the xml frontend).
+
+Library: libpopt (needed for command line frontend)
+bash#: ./configure --without-cd-drive --without-cd-info --without-cd-paranoia --without-cdda-player --without-cd-read --without-iso-info --without-iso-read --disable-shared
+bash#: make
+bash#: make install
+
+Commands:
+bash#: ./configure --disable-shared --without-xml-frontend
+bash#: make

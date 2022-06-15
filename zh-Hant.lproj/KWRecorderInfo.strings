@@ -1,0 +1,22 @@
+// Main Panel
+
+/* Class = "NSWindow"; title = "Recorder Info"; ObjectID = "5"; */
+"5.title" = "燒錄機資訊";
+
+/* Class = "NSTextFieldCell"; title = "Product:"; ObjectID = "42"; */
+"42.title" = "產品:";
+
+/* Class = "NSTextFieldCell"; title = "Vendor:"; ObjectID = "44"; */
+"44.title" = "製造商:";
+
+/* Class = "NSTextFieldCell"; title = "Writes:"; ObjectID = "38"; */
+"38.title" = "寫入:";
+
+/* Class = "NSTextFieldCell"; title = "Connection:"; ObjectID = "36"; */
+"36.title" = "連接:";
+
+/* Class = "NSTextFieldCell"; title = "Cache:"; ObjectID = "46"; */
+"46.title" = "快取:";
+
+/* Class = "NSTextFieldCell"; title = "Buffer Underrun Prevention:"; ObjectID = "48"; */
+"48.title" = "緩衝阻礙下:";

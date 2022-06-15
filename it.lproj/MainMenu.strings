@@ -1,0 +1,654 @@
+
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
+"29.title" = "MainMenu";
+
+/* Class = "NSMenuItem"; title = "Burn"; ObjectID = "56"; */
+"56.title" = "Masterizza";
+
+/* Class = "NSMenu"; title = "Burn"; ObjectID = "57"; */
+"57.title" = "Masterizza";
+
+/* Class = "NSMenuItem"; title = "About Burn"; ObjectID = "58"; */
+"58.title" = "Info su Burn";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
+"72.title" = "Apri…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "Chiudi";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "80"; */
+"80.title" = "Salva come…";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "File";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "Preferenze…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Servizi";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Servizi";
+
+/* Class = "NSMenuItem"; title = "Hide Burn"; ObjectID = "134"; */
+"134.title" = "Nascondi Burn";
+
+/* Class = "NSMenuItem"; title = "Quit Burn"; ObjectID = "136"; */
+"136.title" = "Esci da Burn";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Nascondi Altre";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Mostra tutto";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "154"; */
+"154.title" = "Cerca…";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "155"; */
+"155.title" = "Salta alla Selezione";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "157"; */
+"157.title" = "Copia";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "158"; */
+"158.title" = "Annulla";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "159"; */
+"159.title" = "Cerca";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "160"; */
+"160.title" = "Taglia";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "161"; */
+"161.title" = "Usa la selezione per Cercare";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "162"; */
+"162.title" = "Cerca Precendente";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "163"; */
+"163.title" = "Modifica";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "164"; */
+"164.title" = "Cancella";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "167"; */
+"167.title" = "Cerca Successivo";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "168"; */
+"168.title" = "Cerca";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "169"; */
+"169.title" = "Modifica";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "171"; */
+"171.title" = "Incolla";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "172"; */
+"172.title" = "Seleziona tutto";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; */
+"173.title" = "Ripristina";
+
+/* Class = "NSMenuItem"; title = "Spelling"; ObjectID = "184"; */
+"184.title" = "Ortografia";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "185"; */
+"185.title" = "Ortografia";
+
+/* Class = "NSMenuItem"; title = "Spelling…"; ObjectID = "187"; */
+"187.title" = "Ortografia…";
+
+/* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
+"189.title" = "Controlla Ortografia";
+
+/* Class = "NSMenuItem"; title = "Check Spelling as You Type"; ObjectID = "191"; */
+"191.title" = "Controlla Ortografia mentre scrivo";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "210"; */
+"210.title" = "Incolla e mantieni lo stile";
+
+/* Class = "NSMenuItem"; title = "Recorder"; ObjectID = "226"; */
+"226.title" = "Masterizzatore";
+
+/* Class = "NSMenu"; title = "Recorder"; ObjectID = "227"; */
+"227.title" = "Masterizzatore";
+
+/* Class = "NSMenuItem"; title = "Eject"; ObjectID = "228"; */
+"228.title" = "Masterizzatore";
+
+/* Class = "NSMenuItem"; title = "Burn"; ObjectID = "230"; */
+"230.title" = "Masterizza";
+
+/* Class = "NSMenuItem"; title = "Erase"; ObjectID = "231"; */
+"231.title" = "Cancella";
+
+/* Class = "NSMenuItem"; title = "Items"; ObjectID = "232"; */
+"232.title" = "Elementi";
+
+/* Class = "NSMenu"; title = "Items"; ObjectID = "233"; */
+"233.title" = "Elementi";
+
+/* Class = "NSMenuItem"; title = "Add"; ObjectID = "234"; */
+"234.title" = "Aggiungi";
+
+/* Class = "NSMenuItem"; title = "Scan Discs"; ObjectID = "236"; */
+"236.title" = "Analizza Disco";
+
+/* Class = "NSMenuItem"; title = "Mount Image"; ObjectID = "237"; */
+"237.title" = "Monta Immagine";
+
+/* Class = "NSMenuItem"; title = "Create Folder"; ObjectID = "238"; */
+"238.title" = "Crea Cartella";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "240"; */
+"240.title" = "Cancella";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "258"; */
+"258.title" = "Finestra";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "259"; */
+"259.title" = "Finestra";
+
+/* Class = "NSMenuItem"; title = "Return To Default Size"; ObjectID = "262"; */
+"262.title" = "Ritorna alla dimensione Standard";
+
+/* Class = "NSMenuItem"; title = "Recorder Info"; ObjectID = "263"; */
+"263.title" = "Info Masterizzatore";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "264"; */
+"264.title" = "Minimizza";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "265"; */
+"265.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Disc Info"; ObjectID = "268"; */
+"268.title" = "Informazioni Disco";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "270"; */
+"270.title" = "Porta tutto in Primo Piano";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "274"; */
+"274.title" = "Aiuto";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "275"; */
+"275.title" = "Aiuto";
+
+/* Class = "NSMenuItem"; title = "Burn Help"; ObjectID = "276"; */
+"276.title" = "Aiuto su Burn";
+
+/* Class = "NSMenuItem"; title = "Data Help"; ObjectID = "277"; */
+"277.title" = "Aiuto Dati";
+
+/* Class = "NSMenuItem"; title = "Save Image…"; ObjectID = "278"; */
+"278.title" = "Salva Immagine";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "368"; */
+"368.title" = " ";
+
+/* Class = "NSMenuItem"; title = "Inspector"; ObjectID = "375"; */
+"375.title" = "Inspector";
+
+/* Class = "NSMenuItem"; title = "Burn Site"; ObjectID = "385"; */
+"385.title" = "Sito di Burn";
+
+/* Class = "NSWindow"; title = "Burn"; ObjectID = "388"; */
+"388.title" = "Burn";
+
+/* Class = "NSTabViewItem"; label = "Copy"; ObjectID = "391"; */
+"391.label" = "Copia";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Size of the opened disc"; ObjectID = "393"; */
+"393.ibExternalAccessibilityHelp" = "Dimensioni del disco aperto";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Kind of disc openend"; ObjectID = "396"; */
+"396.ibExternalAccessibilityHelp" = "Tipo di disco aperto";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Current disc image"; ObjectID = "397"; */
+"397.ibExternalAccessibilityHelp" = "Immagine disco corrente";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Mount, unmount or eject a disc or disc image"; ObjectID = "398"; */
+"398.ibExternalAccessibilityHelp" = "Monta, smonta o espelli un disco o un'immagine disco";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Close"; ObjectID = "399"; */
+"399.ibExternalAccessibilityDescription" = "Chiudi";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Close current disc image"; ObjectID = "399"; */
+"399.ibExternalAccessibilityHelp" = "Chiudi l'immagine disco corrente";
+
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "Drop zone"; ObjectID = "401"; */
+"401.ibExternalAccessibilityDescription" = "Zona di rilascio";
+
+/* Class = "NSBox"; ibExternalAccessibilityHelp = "Drop discs and images here"; ObjectID = "401"; */
+"401.ibExternalAccessibilityHelp" = "Rilascia dischi ed immagini qui";
+
+/* Class = "NSBox"; title = "Title"; ObjectID = "401"; */
+"401.title" = "Title";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Scan for removable discs currently connected"; ObjectID = "405"; */
+"405.ibExternalAccessibilityHelp" = "Scansione dischi rimovibili collegati";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Open or save a disc image"; ObjectID = "406"; */
+"406.ibExternalAccessibilityHelp" = "Apri o salva un immagine disco";
+
+/* Class = "NSTabViewItem"; label = "Video"; ObjectID = "408"; */
+"408.label" = "Video";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Total size used on the video disc"; ObjectID = "410"; */
+"410.ibExternalAccessibilityHelp" = "Dimensione totale usata sul disco video";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "412"; */
+"412.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Loop DVD-Video discs"; ObjectID = "414"; */
+"414.title" = "Cicla dischi DVD-Video";
+
+/* Class = "NSMenuItem"; title = "Use DVD theme"; ObjectID = "415"; */
+"415.title" = "Usa Tema DVD";
+
+/* Class = "NSMenuItem"; title = "Force 4:3 aspect"; ObjectID = "416"; */
+"416.title" = "Forza aspetto 4:3";
+
+/* Class = "NSMenuItem"; title = "Re-mux external MPEG2 streams"; ObjectID = "417"; */
+"417.title" = "Forza l'encoding DivX";
+
+/* Class = "NSMenuItem"; title = "Force MPEG2 encoding"; ObjectID = "418"; */
+"418.title" = "Crea un DVD-Vid pienamente compatibile";
+
+/* Class = "NSMenuItem"; title = "Mux separate audio and video files"; ObjectID = "420"; */
+"420.title" = "Separa audio e video in files MUX";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "Choose a video disc format"; ObjectID = "421"; */
+"421.ibExternalAccessibilityHelp" = "Scegliere il formato del disco video";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "422"; */
+"422.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "DVD-Video"; ObjectID = "423"; */
+"423.title" = "DVD-Video";
+
+/* Class = "NSMenuItem"; title = "SVCD"; ObjectID = "424"; */
+"424.title" = "SVCD";
+
+/* Class = "NSMenuItem"; title = "DivX"; ObjectID = "425"; */
+"425.title" = "DivX";
+
+/* Class = "NSMenuItem"; title = "VCD"; ObjectID = "426"; */
+"426.title" = "VCD";
+
+/* Class = "NSTableView"; ibExternalAccessibilityDescription = "Video disc list"; ObjectID = "428"; */
+"428.ibExternalAccessibilityDescription" = "Elenco del disco video";
+
+/* Class = "NSTableView"; ibExternalAccessibilityHelp = "Items on the disc"; ObjectID = "428"; */
+"428.ibExternalAccessibilityHelp" = "Oggetti sul disco";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "429"; */
+"429.headerCell.title" = "Dimensioni";
+
+/* Class = "NSTableColumn"; headerCell.title = "File"; ObjectID = "432"; */
+"432.headerCell.title" = "File";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Delete"; ObjectID = "434"; */
+"434.ibExternalAccessibilityDescription" = "Elimina";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Delete selected items from the video disc"; ObjectID = "434"; */
+"434.ibExternalAccessibilityHelp" = "Elimina gli oggetti selezionati dal disco video";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Options"; ObjectID = "435"; */
+"435.ibExternalAccessibilityDescription" = "Opzioni";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Quickly set options without opening preferences"; ObjectID = "435"; */
+"435.ibExternalAccessibilityHelp" = "Imposta le opzioni rapidamente senza aprire le preferenze";
+
+/* Class = "NSTextField"; title = "Region"; ObjectID = "T6Y-D5-zBb"; */
+"T6Y-D5-zBb.title" = "Regione:";
+
+/* Class = "NSMenuItem"; title = "PAL"; ObjectID = "YxC-aq-R7n"; */
+"YxC-aq-R7n.title" = "PAL";
+
+/* Class = "NSMenuItem"; title = "NTSC"; ObjectID = "nIa-yj-RHn"; */
+"nIa-yj-RHn.title" = "NTSC";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add"; ObjectID = "436"; */
+"436.ibExternalAccessibilityDescription" = "Aggiungi";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Add items to the video disc"; ObjectID = "436"; */
+"436.ibExternalAccessibilityHelp" = "Aggiungi elementi al disco video";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "438"; */
+"438.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Force DivX encoding"; ObjectID = "439"; */
+"439.title" = "Forza codifica DivX";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Choose the video disc label"; ObjectID = "441"; */
+"441.ibExternalAccessibilityHelp" = "Scegliere l'etichetta del disco video";
+
+/* Class = "NSTabViewItem"; label = "Audio"; ObjectID = "442"; */
+"442.label" = "Audio";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Forward"; ObjectID = "444"; */
+"444.ibExternalAccessibilityDescription" = "Avanti";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Play the next sound"; ObjectID = "444"; */
+"444.ibExternalAccessibilityHelp" = "Ascolta il brano successivo";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Back"; ObjectID = "446"; */
+"446.ibExternalAccessibilityDescription" = "Indietro";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Play the previous sound"; ObjectID = "446"; */
+"446.ibExternalAccessibilityHelp" = "Ascolta il brano precedente";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add"; ObjectID = "447"; */
+"447.ibExternalAccessibilityDescription" = "Aggiungi";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Add items to the audio disc"; ObjectID = "447"; */
+"447.ibExternalAccessibilityHelp" = "Aggiungi elementi al disco audio";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Delete"; ObjectID = "448"; */
+"448.ibExternalAccessibilityDescription" = "Elimina";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Delete selected items from the audio disc"; ObjectID = "448"; */
+"448.ibExternalAccessibilityHelp" = "Elimina gli oggetti selezionati dal disco audio";
+
+/* Class = "NSTableView"; ibExternalAccessibilityDescription = "Audio disc list"; ObjectID = "450"; */
+"450.ibExternalAccessibilityDescription" = "Elenco del disco audio";
+
+/* Class = "NSTableView"; ibExternalAccessibilityHelp = "Items on the disc"; ObjectID = "450"; */
+"450.ibExternalAccessibilityHelp" = "Oggetti sul disco";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "451"; */
+"451.headerCell.title" = "Durata";
+
+/* Class = "NSTableColumn"; headerCell.title = "File"; ObjectID = "454"; */
+"454.headerCell.title" = "File";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Options"; ObjectID = "455"; */
+"455.ibExternalAccessibilityDescription" = "Opzioni";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Quickly set options without opening preferences"; ObjectID = "455"; */
+"455.ibExternalAccessibilityHelp" = "Imposta le opzioni rapidamente senza aprire le preferenze";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Play"; ObjectID = "456"; */
+"456.ibExternalAccessibilityDescription" = "Play";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Play the current selected sound"; ObjectID = "456"; */
+"456.ibExternalAccessibilityHelp" = "Ascolta il brano selezionato";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "Choose a audio disc format"; ObjectID = "457"; */
+"457.ibExternalAccessibilityHelp" = "Selezionare un formato per il disco audio";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "458"; */
+"458.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Audio CD"; ObjectID = "460"; */
+"460.title" = "CD Audio";
+
+/* Class = "NSMenuItem"; title = "MP3 Disc"; ObjectID = "461"; */
+"461.title" = "Disco MP3";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "463"; */
+"463.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Create CD-Text discs"; ObjectID = "465"; */
+"465.title" = "Crea disco CD-Text";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Stop"; ObjectID = "466"; */
+"466.ibExternalAccessibilityDescription" = "Stop";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Stop playing"; ObjectID = "466"; */
+"466.ibExternalAccessibilityHelp" = "Ferma il suono";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Switch between time display modes (if possible)"; ObjectID = "467"; */
+"467.ibExternalAccessibilityHelp" = "modifica il tempo di riproduzione di una traccia se è possibile";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "471"; */
+"471.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Create folders for artists"; ObjectID = "473"; */
+"473.title" = "Crea cartella per artista";
+
+/* Class = "NSMenuItem"; title = "Create folders for albums"; ObjectID = "474"; */
+"474.title" = "Crea cartella per album";
+
+/* Class = "NSTabViewItem"; label = "Data"; ObjectID = "475"; */
+"475.label" = "Dati";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Create a new folder on the data disc"; ObjectID = "478"; */
+"478.ibExternalAccessibilityHelp" = "Crea una nuova cartella sul disco dati";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Size of the data disc"; ObjectID = "479"; */
+"479.ibExternalAccessibilityHelp" = "Dimensioni del disco dati";
+
+/* Class = "NSTableView"; ibExternalAccessibilityDescription = "Data disc list"; ObjectID = "481"; */
+"481.ibExternalAccessibilityDescription" = "Elenco del disco dati";
+
+/* Class = "NSTableView"; ibExternalAccessibilityHelp = "Items on the disc"; ObjectID = "481"; */
+"481.ibExternalAccessibilityHelp" = "Oggetti sul disco";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "482"; */
+"482.headerCell.title" = "Dimensioni";
+
+/* Class = "NSTableColumn"; headerCell.title = "File"; ObjectID = "483"; */
+"483.headerCell.title" = "File";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "Choose the filesystem for the data disc"; ObjectID = "485"; */
+"485.ibExternalAccessibilityHelp" = "Selezionare il filesystem del disco dati";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "486"; */
+"486.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Mac (HFS+)"; ObjectID = "487"; */
+"487.title" = "Mac (HFS+)";
+
+/* Class = "NSMenuItem"; title = "Mac + PC"; ObjectID = "488"; */
+"488.title" = "Mac + PC";
+
+/* Class = "NSMenuItem"; title = "Advanced..."; ObjectID = "489"; */
+"489.title" = "Avanzate…";
+
+/* Class = "NSMenuItem"; title = "PC (Joliet)"; ObjectID = "490"; */
+"490.title" = "PC (Joliet)";
+
+/* Class = "NSMenuItem"; title = "DVD (UDF)"; ObjectID = "491"; */
+"491.title" = "DVD (UDF)";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Set the data disc label"; ObjectID = "492"; */
+"492.ibExternalAccessibilityHelp" = "Etichetta del disco dati";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add"; ObjectID = "493"; */
+"493.ibExternalAccessibilityDescription" = "Aggiungi";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Add items to the data disc"; ObjectID = "493"; */
+"493.ibExternalAccessibilityHelp" = "Aggiungi elementi al disco dati";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Options"; ObjectID = "494"; */
+"494.ibExternalAccessibilityDescription" = "Opzioni";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Quickly set options without opening preferences"; ObjectID = "494"; */
+"494.ibExternalAccessibilityHelp" = "Imposta le opzioni rapidamente senza aprire le preferenze";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Delete"; ObjectID = "495"; */
+"495.ibExternalAccessibilityDescription" = "Elimina";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Delete selected items from the data disc"; ObjectID = "495"; */
+"495.ibExternalAccessibilityHelp" = "Elimina gli oggetti selezionati dal disco dati";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "497"; */
+"497.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Calculate total size"; ObjectID = "498"; */
+"498.title" = "Calcola la dimensione totale";
+
+/* Class = "NSMenuItem"; title = "Calculate folder sizes"; ObjectID = "499"; */
+"499.title" = "Calcola la dimensione della cartella";
+
+/* Class = "NSMenuItem"; title = "Calculate filepackage sizes"; ObjectID = "501"; */
+"501.title" = "Calcola la dimensione del pacchetto";
+
+/* Class = "NSMenuItem"; title = "Show filepackages as folder"; ObjectID = "502"; */
+"502.title" = "Mostra i pacchetti come Cartelle";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Help"; ObjectID = "503"; */
+"503.ibExternalAccessibilityDescription" = "Aiuto";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Shows help about current disc type"; ObjectID = "503"; */
+"503.ibExternalAccessibilityHelp" = "Mostra aiuto sul tipo di disco corrente";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Burn the created disc"; ObjectID = "504"; */
+"504.ibExternalAccessibilityHelp" = "Masterizza il disco creato";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Information about the current writer and disc in it"; ObjectID = "505"; */
+"505.ibExternalAccessibilityHelp" = "Informazioni sul masterizzatore corrente ed il disco in esso contenuto";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Information about the current writer and disc in it"; ObjectID = "506"; */
+"506.ibExternalAccessibilityHelp" = "Visualizza le informazioni sul masterizzatore corrente e il disco in esso contenuto";
+
+/* Class = "NSWindow"; title = "Panel"; ObjectID = "544"; */
+"544.title" = "Panel";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "565"; */
+"565.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "PAL"; ObjectID = "566"; */
+"566.title" = "PAL";
+
+/* Class = "NSMenuItem"; title = "NTSC"; ObjectID = "567"; */
+"567.title" = "NTSC";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Set the audio disc label (if possible)"; ObjectID = "824"; */
+"824.ibExternalAccessibilityHelp" = "Imposta il nome del cd audio se è possibile";
+
+/* Class = "NSButtonCell"; title = "HFS+"; ObjectID = "848"; */
+"848.title" = "HFS+";
+
+/* Class = "NSButtonCell"; title = "ISO9660"; ObjectID = "849"; */
+"849.title" = "ISO9660";
+
+/* Class = "NSButtonCell"; title = "Joliet"; ObjectID = "850"; */
+"850.title" = "Joliet";
+
+/* Class = "NSButtonCell"; title = "UDF"; ObjectID = "851"; */
+"851.title" = "UDF";
+
+/* Class = "NSButtonCell"; title = "HFS Standard / Joliet (only)"; ObjectID = "852"; */
+"852.title" = "HFS Standard / Joliet (solo)";
+
+/* Class = "NSButtonCell"; title = "Joliet 103 characters (only)"; ObjectID = "853"; */
+"853.title" = "Joliet 103 characters (solo)";
+
+/* Class = "NSTextFieldCell"; title = "Kind:"; ObjectID = "913"; */
+"913.title" = "Tipo:";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "914"; */
+"914.title" = "Dim.:";
+
+/* Class = "NSTextFieldCell"; title = "Copy"; ObjectID = "916"; */
+"916.title" = "Copia";
+
+/* Class = "NSButtonCell"; title = "Mount"; ObjectID = "917"; */
+"917.title" = "Monta";
+
+/* Class = "NSButtonCell"; title = "Scan..."; ObjectID = "920"; */
+"920.title" = "Scan...";
+
+/* Class = "NSButtonCell"; title = "Open..."; ObjectID = "921"; */
+"921.title" = "Apertura...";
+
+/* Class = "NSTextFieldCell"; title = "Total size: 0 KB"; ObjectID = "922"; */
+"922.title" = "Spazio Totale: 0 KB";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "926"; */
+"926.title" = "-";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "928"; */
+"928.title" = "+";
+
+/* Class = "NSTextFieldCell"; title = "Untitled"; ObjectID = "930"; */
+"930.title" = "Senza titolo";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "933"; */
+"933.title" = "+";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "934"; */
+"934.title" = "-";
+
+/* Class = "NSButtonCell"; title = "Change Display Time"; ObjectID = "940"; */
+"940.title" = "Modifica tempo di riproduzione";
+
+/* Class = "NSTextFieldCell"; title = "Total time: 00:00:00"; ObjectID = "942"; */
+"942.title" = "Tempo totale: 00:00:00";
+
+/* Class = "NSTextFieldCell"; title = "Untitled"; ObjectID = "944"; */
+"944.title" = "Senza titolo";
+
+/* Class = "NSButtonCell"; title = "Folder"; ObjectID = "945"; */
+"945.title" = "Cartella";
+
+/* Class = "NSTextFieldCell"; title = "Total size: 0 KB"; ObjectID = "946"; */
+"946.title" = "Spazio Totale: 0 KB";
+
+/* Class = "NSTextFieldCell"; title = "Untitled"; ObjectID = "949"; */
+"949.title" = "Senza titolo";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "950"; */
+"950.title" = "+";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "952"; */
+"952.title" = "-";
+
+/* Class = "NSButtonCell"; title = "Burn"; ObjectID = "955"; */
+"955.title" = "Masterizza";
+
+/* Class = "NSButtonCell"; title = "Change burner"; ObjectID = "957"; */
+"957.title" = "Cambia masterizzatore";
+
+/* Class = "NSTextFieldCell"; title = "No writer connected\n0 bytes free"; ObjectID = "956"; */
+"956.title" = "Nessun Disco disponibile\n0 bytes liberi";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "958"; */
+"958.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Use Filesystems on the disc:"; ObjectID = "960"; */
+"960.title" = "Usa Filesystems sul disco :";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "961"; */
+"961.title" = "Annulla";
+
+/* Class = "NSTextFieldCell"; title = "Region:"; ObjectID = "963"; */
+"963.title" = "Regione:";
+
+/* Class = "NSSegmentedCell"; KUh-UR-mPb.ibShadowedLabels[0] = "Data"; ObjectID = "964"; */
+"KUh-UR-mPb.ibShadowedLabels[0]" = "Dati";
+
+/* Class = "NSSegmentedCell"; KUh-UR-mPb.ibShadowedLabels[1] = "Audio"; ObjectID = "964"; */
+"KUh-UR-mPb.ibShadowedLabels[1]" = "Audio";
+
+/* Class = "NSSegmentedCell"; KUh-UR-mPb.ibShadowedLabels[2] = "Video"; ObjectID = "964"; */
+"KUh-UR-mPb.ibShadowedLabels[2]" = "Video";
+
+/* Class = "NSSegmentedCell"; KUh-UR-mPb.ibShadowedLabels[3] = "Copy"; ObjectID = "964"; */
+"KUh-UR-mPb.ibShadowedLabels[3]" = "Copia";
+
+/* Class = "NSButtonCell"; title = "Combine other sessions"; ObjectID = "965"; */
+"965.title" = "Combina altre sessioni";
+
+/* Class = "NSTextFieldCell"; title = "Drag discs and images here"; ObjectID = "966"; */
+"966.title" = "Trascina qui il Disco o l'Immagine";
+
+/* Class = "NSButtonCell"; title = "HFS Standard / Joliet (only)"; ObjectID = "968"; */
+"968.title" = "HFS Standard / Joliet (solo)";
+
+/* Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "1kv-m8-eYk"; */
+"1kv-m8-eYk.title" = "Cerca aggiornamenti…";
+
+/* Class = "NSMenuItem"; title = "DVD-Audio"; ObjectID = "VUg-vk-FWS"; */
+"VUg-vk-FWS.title" = "DVD-Audio";
+
+/* Class = "NSMenuItem"; title = "Contact Support"; ObjectID = "qur-i9-1dj"; */
+"qur-i9-1dj.title" = "Contatta supporto";

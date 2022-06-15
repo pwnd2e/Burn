@@ -1,0 +1,22 @@
+// Main Panel
+
+/* Class = "NSWindow"; title = "Recorder Info"; ObjectID = "5"; */
+"5.title" = "記録装置の情報";
+
+/* Class = "NSTextFieldCell"; title = "Product:"; ObjectID = "42"; */
+"42.title" = "製品名:";
+
+/* Class = "NSTextFieldCell"; title = "Vendor:"; ObjectID = "44"; */
+"44.title" = "製造者:";
+
+/* Class = "NSTextFieldCell"; title = "Writes:"; ObjectID = "38"; */
+"38.title" = "装置の種類:";
+
+/* Class = "NSTextFieldCell"; title = "Connection:"; ObjectID = "36"; */
+"36.title" = "プロトコル:";
+
+/* Class = "NSTextFieldCell"; title = "Cache:"; ObjectID = "46"; */
+"46.title" = "キャッシュ:";
+
+/* Class = "NSTextFieldCell"; title = "Buffer Underrun Prevention:"; ObjectID = "48"; */
+"48.title" = "バッファアンダーラン保護:";

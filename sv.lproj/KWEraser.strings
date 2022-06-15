@@ -1,0 +1,33 @@
+
+/* Class = "NSButtonCell"; title = "Completely"; ObjectID = "16"; */
+"16.title" = "Completely";
+
+/* Class = "NSButtonCell"; title = "Quickly"; ObjectID = "17"; */
+"17.title" = "Quickly";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "21"; */
+"21.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Recorder"; ObjectID = "22"; */
+"22.title" = "Recorder";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "37"; */
+"37.title" = "Close";
+
+/* Class = "NSTextFieldCell"; title = "Waiting for a disc to be inserted..."; ObjectID = "38"; */
+"38.title" = "Waiting for a disc to be inserted...";
+
+/* Class = "NSTextFieldCell"; title = "Erase Disc In:"; ObjectID = "39"; */
+"39.title" = "Erase Disc In:";
+
+/* Class = "NSButtonCell"; title = "Erase"; ObjectID = "40"; */
+"40.title" = "Erase";
+
+/* Class = "NSTextFieldCell"; title = "Erase Method:"; ObjectID = "41"; */
+"41.title" = "Erase Method:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "42"; */
+"42.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "45"; */
+"45.title" = "Radio";

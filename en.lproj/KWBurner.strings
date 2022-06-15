@@ -1,0 +1,51 @@
+// Main Panel
+
+/* Class = "NSTextFieldCell"; title = "Burn Disc In:"; ObjectID = "97"; */
+"97.title" = "Burn Disc In:";
+
+/* Class = "NSTextFieldCell"; title = "Speed:"; ObjectID = "90"; */
+"90.title" = "Speed:";
+
+/* Class = "NSMenuItem"; title = "Maximum Possible"; ObjectID = "20"; */
+"20.title" = "Maximum Possible";
+
+/* Class = "NSButtonCell"; title = "Erase disc before burning"; ObjectID = "88"; */
+"88.title" = "Erase disc before burning";
+
+/* Class = "NSButtonCell"; title = "Allow more sessions"; ObjectID = "98"; */
+"98.title" = "Allow more sessions";
+
+/* Class = "NSButtonCell"; title = "Combine other sessions"; ObjectID = "99"; */
+"99.title" = "Combine other sessions";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "95"; */
+"95.title" = "Close";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "93"; */
+"93.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Burn"; ObjectID = "89"; */
+"89.title" = "Burn";
+
+// Sessions Panel
+
+/* Class = "NSWindow"; title = "Multiple Sessions"; ObjectID = "50"; */
+"50.title" = "Multiple Sessions";
+
+/* Class = "NSTextFieldCell"; title = "Include these sessions:"; ObjectID = "100"; */
+"100.title" = "Include these sessions:";
+
+/* Class = "NSButtonCell"; title = "Data session"; ObjectID = "80"; */
+"80.title" = "Data session";
+
+/* Class = "NSButtonCell"; title = "Audio session"; ObjectID = "81"; */
+"81.title" = "Audio session";
+
+/* Class = "NSButtonCell"; title = "Video session"; ObjectID = "82"; */
+"82.title" = "Video session";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "102"; */
+"102.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "101"; */
+"101.title" = "OK";

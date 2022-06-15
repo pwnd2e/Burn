@@ -1,0 +1,965 @@
+//  Inspector window
+
+/* Class = "NSWindow"; title = "Inspector"; ObjectID = "7"; */
+"7.title" = "檢閱器";
+
+// Empty View
+
+/* Class = "NSTextFieldCell"; title = "No Inspector"; ObjectID = "2292"; */
+"2292.title" = "沒有檢閱器";
+
+// Data View
+
+/* Class = "NSTabViewItem"; label = "HFS+"; ObjectID = "44"; */
+"44.label" = "HFS+";
+
+/* Class = "NSButtonCell"; title = "Include in HFS+ Filesystem"; ObjectID = "2197"; */
+"2197.title" = "包含HFS+檔案系統";
+
+
+/* Class = "NSMenuItem"; title = "Names"; ObjectID = "49"; */
+"49.title" = "名稱";
+
+/* Class = "NSTextFieldCell"; title = "Specified:"; ObjectID = "2145"; */
+"2145.title" = "詳細說明︰";
+
+/* Class = "NSButtonCell"; title = "Hide Extension"; ObjectID = "2149"; */
+"2149.title" = "隱藏副檔名";
+
+/* Class = "NSTextFieldCell"; title = "On Disc:"; ObjectID = "2146"; */
+"2146.title" = "在光碟上︰";
+
+
+/* Class = "NSMenuItem"; title = "Dates"; ObjectID = "50"; */
+"50.title" = "日期";
+
+/* Class = "NSTextFieldCell"; title = "Creation Date:"; ObjectID = "2157"; */
+"2157.title" = "建立日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Content Mod Date:"; ObjectID = "2153"; */
+"2153.title" = "內容隨選日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Attribute Mod Date:"; ObjectID = "2150"; */
+"2150.title" = "隨選音樂日期屬性︰";
+
+/* Class = "NSTextFieldCell"; title = "Last Accessed Date:"; ObjectID = "2156"; */
+"2156.title" = "最後啟動日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Backup Date:"; ObjectID = "2155"; */
+"2155.title" = "備份日期︰";
+
+
+
+
+/* Class = "NSMenuItem"; title = "Permissions"; ObjectID = "51"; */
+"51.title" = "許可";
+
+/* Class = "NSTextFieldCell"; title = "UID:"; ObjectID = "2161"; */
+"2161.title" = "UID:";
+
+/* Class = "NSTextFieldCell"; title = "GID:"; ObjectID = "2163"; */
+"2163.title" = "GID:";
+
+/* Class = "NSTextFieldCell"; title = "owner:"; ObjectID = "84"; */
+"84.title" = "持有人︰";
+
+/* Class = "NSTextFieldCell"; title = "group:"; ObjectID = "85"; */
+"85.title" = "群組︰";
+
+/* Class = "NSTextFieldCell"; title = "other:"; ObjectID = "86"; */
+"86.title" = "其他︰";
+
+/* Class = "NSButtonCell"; title = "setgid"; ObjectID = "88"; */
+"88.title" = "setgid";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "89"; */
+"89.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "sticky bit"; ObjectID = "90"; */
+"90.title" = "sticky bit";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "91"; */
+"91.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "92"; */
+"92.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "93"; */
+"93.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "94"; */
+"94.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "95"; */
+"95.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "96"; */
+"96.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "97"; */
+"97.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "98"; */
+"98.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "setuid"; ObjectID = "99"; */
+"99.title" = "setuid";
+
+
+/* Class = "NSMenuItem"; title = "Folder"; ObjectID = "52"; */
+"52.title" = "資料夾";
+
+/* Class = "NSTextFieldCell"; title = "Classic Options:"; ObjectID = "2180"; */
+"2180.title" = "典型選項︰";
+
+/* Class = "NSTextFieldCell"; title = "T:"; ObjectID = "2164"; */
+"2164.title" = "T:";
+
+/* Class = "NSTextFieldCell"; title = "View Type:"; ObjectID = "2168"; */
+"2168.title" = "檢視類型︰";
+
+/* Class = "NSTextFieldCell"; title = "Bounds:"; ObjectID = "2169"; */
+"2169.title" = "界限︰";
+
+/* Class = "NSTextFieldCell"; title = "Scroll position:"; ObjectID = "2171"; */
+"2171.title" = "捲軸位置︰";
+
+/* Class = "NSTextFieldCell"; title = "L:"; ObjectID = "2173"; */
+"2173.title" = "L:";
+
+/* Class = "NSTextFieldCell"; title = "R:"; ObjectID = "2176"; */
+"2176.title" = "R:";
+
+/* Class = "NSTextFieldCell"; title = "X:"; ObjectID = "2177"; */
+"2177.title" = "X:";
+
+/* Class = "NSTextFieldCell"; title = "B:"; ObjectID = "2178"; */
+"2178.title" = "B:";
+
+/* Class = "NSTextFieldCell"; title = "Y:"; ObjectID = "2179"; */
+"2179.title" = "Y:";
+
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "502"; */
+"502.title" = "檔案";
+
+/* Class = "NSTextFieldCell"; title = "Classic Options:"; ObjectID = "2196"; */
+"2196.title" = "典型選項︰";
+
+/* Class = "NSTextFieldCell"; title = "Icon Position:"; ObjectID = "2183"; */
+"2183.title" = "圖像位置︰";
+
+/* Class = "NSTextFieldCell"; title = "Y:"; ObjectID = "2184"; */
+"2184.title" = "Y:";
+
+/* Class = "NSTextFieldCell"; title = "X:"; ObjectID = "2185"; */
+"2185.title" = "X:";
+
+/* Class = "NSTextFieldCell"; title = "Text Encoding Hint:"; ObjectID = "2188"; */
+"2188.title" = "文字編碼建議︰";
+
+/* Class = "NSTextFieldCell"; title = "Creator:"; ObjectID = "2191"; */
+"2191.title" = "建立者︰";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "2193"; */
+"2193.title" = "類型︰";
+
+/* Class = "NSTextFieldCell"; title = "Catalog Node ID:"; ObjectID = "2194"; */
+"2194.title" = "目錄節點識別︰";
+
+
+
+/* Class = "NSTabViewItem"; label = "ISO"; ObjectID = "173"; */
+"173.label" = "ISO";
+
+/* Class = "NSButtonCell"; title = "Include in ISO 9960 Filesystem"; ObjectID = "2198"; */
+"2198.title" = "包含ISO 9960檔案系統";
+
+
+/* Class = "NSMenuItem"; title = "Names"; ObjectID = "183"; */
+"183.title" = "名稱";
+
+/* Class = "NSTextFieldCell"; title = "ISO Level 1:"; ObjectID = "2224"; */
+"2224.title" = "ISO等級1︰";
+
+/* Class = "NSTextFieldCell"; title = "Specified:"; ObjectID = "2225"; */
+"2225.title" = "詳細說明︰";
+
+/* Class = "NSTextFieldCell"; title = "ISO Level 2:"; ObjectID = "2226"; */
+"2226.title" = "ISO等級2︰";
+
+/* Class = "NSTextFieldCell"; title = "On Disc:"; ObjectID = "2227"; */
+"2227.title" = "在光碟上︰";
+
+/* Class = "NSTextFieldCell"; title = "Specified:"; ObjectID = "2229"; */
+"2229.title" = "詳細說明︰";
+
+/* Class = "NSTextFieldCell"; title = "On Disc:"; ObjectID = "2232"; */
+"2232.title" = "在光碟上︰";
+
+
+/* Class = "NSMenuItem"; title = "Dates"; ObjectID = "184"; */
+"184.title" = "日期";
+
+/* Class = "NSTextFieldCell"; title = "Creation Date:"; ObjectID = "2213"; */
+"2213.title" = "建立日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Content Mod Date:"; ObjectID = "2203"; */
+"2203.title" = "內容隨選日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Attribute Mod Date:"; ObjectID = "2202"; */
+"2202.title" = "隨選音樂日期屬性︰";
+
+/* Class = "NSTextFieldCell"; title = "Last Accessed Date:"; ObjectID = "2207"; */
+"2207.title" = "最後啟動日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Backup Date:"; ObjectID = "2206"; */
+"2206.title" = "備份日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Effective Date:"; ObjectID = "2209"; */
+"2209.title" = "有效日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Expiration Date:"; ObjectID = "2211"; */
+"2211.title" = "到期日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Recording Date:"; ObjectID = "2201"; */
+"2201.title" = "錄音日期︰";
+
+
+/* Class = "NSMenuItem"; title = "Permissions"; ObjectID = "185"; */
+"185.title" = "許可";
+
+/* Class = "NSTextFieldCell"; title = "UID:"; ObjectID = "2216"; */
+"2216.title" = "UID:";
+
+/* Class = "NSTextFieldCell"; title = "GID:"; ObjectID = "2218"; */
+"2218.title" = "GID:";
+
+/* Class = "NSTextFieldCell"; title = "owner:"; ObjectID = "220"; */
+"220.title" = "持有人︰";
+
+/* Class = "NSTextFieldCell"; title = "group:"; ObjectID = "221"; */
+"221.title" = "群組︰";
+
+/* Class = "NSTextFieldCell"; title = "other:"; ObjectID = "222"; */
+"222.title" = "其他︰";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "229"; */
+"229.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "230"; */
+"230.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "231"; */
+"231.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "232"; */
+"232.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "233"; */
+"233.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "234"; */
+"234.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "235"; */
+"235.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "236"; */
+"236.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "setuid"; ObjectID = "237"; */
+"237.title" = "setuid";
+
+/* Class = "NSButtonCell"; title = "setgid"; ObjectID = "238"; */
+"238.title" = "setgid";
+
+/* Class = "NSButtonCell"; title = "sticky bit"; ObjectID = "239"; */
+"239.title" = "sticky bit";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "240"; */
+"240.title" = "讀取";
+
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "186"; */
+"186.title" = "項目";
+
+/* Class = "NSButtonCell"; title = "Make Item Invisible"; ObjectID = "2220"; */
+"2220.title" = "使項目看不見";
+
+/* Class = "NSTextFieldCell"; title = "Version Number:"; ObjectID = "2221"; */
+"2221.title" = "版本編號︰";
+
+
+
+/* Class = "NSTabViewItem"; label = "Joliet"; ObjectID = "267"; */
+"267.label" = "Joliet";
+
+/* Class = "NSButtonCell"; title = "Include in Joliet Filesystem"; ObjectID = "2233"; */
+"2233.title" = "包含Joliet檔案系統";
+
+
+/* Class = "NSMenuItem"; title = "Names"; ObjectID = "275"; */
+"275.title" = "名稱";
+
+/* Class = "NSTextFieldCell"; title = "Specified:"; ObjectID = "2244"; */
+"2244.title" = "詳細說明︰";
+
+/* Class = "NSTextFieldCell"; title = "On Disc:"; ObjectID = "2245"; */
+"2245.title" = "在光碟上︰";
+
+
+/* Class = "NSMenuItem"; title = "Dates"; ObjectID = "276"; */
+"276.title" = "日期";
+
+/* Class = "NSTextFieldCell"; title = "Creation Date:"; ObjectID = "2257"; */
+"2257.title" = "建立日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Content Mod Date:"; ObjectID = "2248"; */
+"2248.title" = "內容隨選日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Attribute Mod Date:"; ObjectID = "2246"; */
+"2246.title" = "隨選音樂日期屬性︰";
+
+/* Class = "NSTextFieldCell"; title = "Last Accessed Date:"; ObjectID = "2253"; */
+"2253.title" = "最後啟動日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Backup Date:"; ObjectID = "2251"; */
+"2251.title" = "備份日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Effective Date:"; ObjectID = "2256"; */
+"2256.title" = "有效日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Expiration Date:"; ObjectID = "2258"; */
+"2258.title" = "到期日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Recording Date:"; ObjectID = "2249"; */
+"2249.title" = "錄音日期︰";
+
+
+/* Class = "NSMenuItem"; title = "Permissions"; ObjectID = "277"; */
+"277.title" = "許可";
+
+/* Class = "NSTextFieldCell"; title = "GID:"; ObjectID = "2238"; */
+"2238.title" = "GID:";
+
+/* Class = "NSTextFieldCell"; title = "UID:"; ObjectID = "2240"; */
+"2240.title" = "UID:";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "299"; */
+"299.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "300"; */
+"300.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "301"; */
+"301.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "setuid"; ObjectID = "302"; */
+"302.title" = "setuid";
+
+/* Class = "NSButtonCell"; title = "setgid"; ObjectID = "303"; */
+"303.title" = "setgid";
+
+/* Class = "NSButtonCell"; title = "sticky bit"; ObjectID = "304"; */
+"304.title" = "sticky bit";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "305"; */
+"305.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "306"; */
+"306.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "307"; */
+"307.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "308"; */
+"308.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "309"; */
+"309.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "310"; */
+"310.title" = "製作";
+
+/* Class = "NSTextFieldCell"; title = "owner:"; ObjectID = "312"; */
+"312.title" = "持有人︰";
+
+/* Class = "NSTextFieldCell"; title = "group:"; ObjectID = "313"; */
+"313.title" = "群組︰";
+
+/* Class = "NSTextFieldCell"; title = "other:"; ObjectID = "314"; */
+"314.title" = "其他︰";
+
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "278"; */
+"278.title" = "項目";
+
+/* Class = "NSButtonCell"; title = "Make Item Invisible"; ObjectID = "2235"; */
+"2235.title" = "使項目看不見";
+
+/* Class = "NSTextFieldCell"; title = "Version Number:"; ObjectID = "2236"; */
+"2236.title" = "版本編號︰";
+
+
+
+/* Class = "NSTabViewItem"; label = "UDF"; ObjectID = "722"; */
+"722.label" = "UDF";
+
+/* Class = "NSButtonCell"; title = "Include in UDF Filesystem"; ObjectID = "2288"; */
+"2288.title" = "包含UDF檔案系統";
+
+
+/* Class = "NSMenuItem"; title = "Names"; ObjectID = "727"; */
+"727.title" = "名稱";
+
+/* Class = "NSTextFieldCell"; title = "On Disc:"; ObjectID = "2283"; */
+"2283.title" = "在光碟上︰";
+
+/* Class = "NSTextFieldCell"; title = "Specified:"; ObjectID = "2286"; */
+"2286.title" = "詳細說明︰";
+
+
+/* Class = "NSMenuItem"; title = "Dates"; ObjectID = "728"; */
+"728.title" = "日期";
+
+/* Class = "NSTextFieldCell"; title = "Creation Date:"; ObjectID = "2278"; */
+"2278.title" = "建立日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Content Mod Date:"; ObjectID = "2271"; */
+"2271.title" = "內容隨選日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Attribute Mod Date:"; ObjectID = "2269"; */
+"2269.title" = "隨選音樂日期屬性︰";
+
+/* Class = "NSTextFieldCell"; title = "Last Accessed Date:"; ObjectID = "2275"; */
+"2275.title" = "最後啟動日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Backup Date:"; ObjectID = "2273"; */
+"2273.title" = "備份日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Effective Date:"; ObjectID = "2274"; */
+"2274.title" = "有效日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Expiration Date:"; ObjectID = "2276"; */
+"2276.title" = "到期日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Recording Date:"; ObjectID = "2267"; */
+"2267.title" = "錄音日期︰";
+
+
+/* Class = "NSMenuItem"; title = "Permissions"; ObjectID = "729"; */
+"729.title" = "許可";
+
+/* Class = "NSTextFieldCell"; title = "UID:"; ObjectID = "2264"; */
+"2264.title" = "UID:";
+
+/* Class = "NSTextFieldCell"; title = "GID:"; ObjectID = "2266"; */
+"2266.title" = "GID:";
+
+/* Class = "NSButtonCell"; title = "sticky bit"; ObjectID = "737"; */
+"737.title" = "sticky bit";
+
+/* Class = "NSButtonCell"; title = "setgid"; ObjectID = "738"; */
+"738.title" = "setgid";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "739"; */
+"739.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "740"; */
+"740.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "741"; */
+"741.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "742"; */
+"742.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "743"; */
+"743.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "744"; */
+"744.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "745"; */
+"745.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "746"; */
+"746.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "747"; */
+"747.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "setuid"; ObjectID = "748"; */
+"748.title" = "setuid";
+
+/* Class = "NSTextFieldCell"; title = "owner:"; ObjectID = "751"; */
+"751.title" = "持有人︰";
+
+/* Class = "NSTextFieldCell"; title = "group:"; ObjectID = "752"; */
+"752.title" = "群組︰";
+
+/* Class = "NSTextFieldCell"; title = "other:"; ObjectID = "753"; */
+"753.title" = "其他︰";
+
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "730"; */
+"730.title" = "項目";
+
+/* Class = "NSButtonCell"; title = "Make Item Invisible"; ObjectID = "2287"; */
+"2287.title" = "使項目看不見";
+
+
+// Data disc view
+
+/* Class = "NSTabViewItem"; label = "HFS+"; ObjectID = "1218"; */
+"1218.label" = "HFS+";
+
+/* Class = "NSTextFieldCell"; title = "Volume Name:"; ObjectID = "2404"; */
+"2404.title" = "卷宗名稱︰";
+
+/* Class = "NSTextFieldCell"; title = "Checked Date:"; ObjectID = "2402"; */
+"2402.title" = "已檢查日期︰";
+
+
+/* Class = "NSTabViewItem"; label = "Icon"; ObjectID = "1880"; */
+"1880.label" = "圖像";
+
+/* Class = "NSTextFieldCell"; title = "Icon:"; ObjectID = "2406"; */
+"2406.title" = "圖像︰";
+
+/* Class = "NSButtonCell"; title = "Choose"; ObjectID = "2408"; */
+"2408.title" = "選擇";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "2405"; */
+"2405.title" = "刪除";
+
+
+/* Class = "NSTabViewItem"; label = "Classic"; ObjectID = "1882"; */
+"1882.label" = "典型";
+
+/* Class = "NSTextFieldCell"; title = "Y:"; ObjectID = "2409"; */
+"2409.title" = "Y:";
+
+/* Class = "NSTextFieldCell"; title = "B:"; ObjectID = "2410"; */
+"2410.title" = "B:";
+
+/* Class = "NSTextFieldCell"; title = "X:"; ObjectID = "2411"; */
+"2411.title" = "X:";
+
+/* Class = "NSTextFieldCell"; title = "R:"; ObjectID = "2412"; */
+"2412.title" = "R:";
+
+/* Class = "NSTextFieldCell"; title = "L:"; ObjectID = "2415"; */
+"2415.title" = "L:";
+
+/* Class = "NSTextFieldCell"; title = "Scroll Position:"; ObjectID = "2417"; */
+"2417.title" = "捲軸位置︰";
+
+/* Class = "NSTextFieldCell"; title = "Bounds:"; ObjectID = "2419"; */
+"2419.title" = "界限︰";
+
+/* Class = "NSTextFieldCell"; title = "View Type:"; ObjectID = "2420"; */
+"2420.title" = "檢視類型︰";
+
+/* Class = "NSTextFieldCell"; title = "T:"; ObjectID = "2424"; */
+"2424.title" = "T:";
+
+
+
+/* Class = "NSTabViewItem"; label = "ISO"; ObjectID = "1246"; */
+"1246.label" = "ISO";
+
+/* Class = "NSTextFieldCell"; title = "Volume Name:"; ObjectID = "2441"; */
+"2441.title" = "卷宗名稱︰";
+
+/* Class = "NSButtonCell"; title = "Include Macintosh Extensions"; ObjectID = "2438"; */
+"2438.title" = "包含Macintosh副檔名";
+
+/* Class = "NSButtonCell"; title = "Include Rock Ridge Extensions"; ObjectID = "2436"; */
+"2436.title" = "包含Rock Ridge副檔名";
+
+/* Class = "NSTextFieldCell"; title = "ISO Level:"; ObjectID = "2433"; */
+"2433.title" = "ISO等級︰";
+
+/* Class = "NSMenuItem"; title = "Level 1"; ObjectID = "1259"; */
+"1259.title" = "等級1";
+
+/* Class = "NSMenuItem"; title = "Level 2"; ObjectID = "1260"; */
+"1260.title" = "等級2";
+
+/* Class = "NSTextFieldCell"; title = "Volume Set:"; ObjectID = "2443"; */
+"2443.title" = "卷宗設定︰";
+
+/* Class = "NSTextFieldCell"; title = "Publisher:"; ObjectID = "2445"; */
+"2445.title" = "出版商︰";
+
+/* Class = "NSTextFieldCell"; title = "Data Preparer:"; ObjectID = "2447"; */
+"2447.title" = "資料準備器︰";
+
+/* Class = "NSTextFieldCell"; title = "Application Identifier:"; ObjectID = "2449"; */
+"2449.title" = "應用程式識別︰";
+
+/* Class = "NSTextFieldCell"; title = "System Identifier:"; ObjectID = "2451"; */
+"2451.title" = "系統識別︰";
+
+/* Class = "NSTextFieldCell"; title = "Expiration Date:"; ObjectID = "2453"; */
+"2453.title" = "到期日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Effective Date:"; ObjectID = "2455"; */
+"2455.title" = "有效日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Copyright File:"; ObjectID = "2457"; */
+"2457.title" = "版權檔案︰";
+
+/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "2434"; */
+"2434.title" = "選擇..";
+
+/* Class = "NSTextFieldCell"; title = "Bibliographic File:"; ObjectID = "2459"; */
+"2459.title" = "目錄檔案︰";
+
+/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "2435"; */
+"2435.title" = "選擇..";
+
+/* Class = "NSTextFieldCell"; title = "Abstract File:"; ObjectID = "2461"; */
+"2461.title" = "抽出檔案︰";
+
+/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "2437"; */
+"2437.title" = "選擇..";
+
+
+
+/* Class = "NSTabViewItem"; label = "Joliet"; ObjectID = "1227"; */
+"1227.label" = "Joliet";
+
+/* Class = "NSTextFieldCell"; title = "Volume Name:"; ObjectID = "2426"; */
+"2426.title" = "卷宗名稱︰";
+
+
+
+/* Class = "NSTabViewItem"; label = "UDF"; ObjectID = "1341"; */
+"1341.label" = "UDF";
+
+/* Class = "NSTextFieldCell"; title = "Volume Name:"; ObjectID = "2465"; */
+"2465.title" = "卷宗名稱︰";
+
+/* Class = "NSTextFieldCell"; title = "UDF version:"; ObjectID = "2462"; */
+"2462.title" = "UDF 版本︰";
+
+/* Class = "NSMenuItem"; title = "1.02"; ObjectID = "1347"; */
+"1347.title" = "1.02";
+
+/* Class = "NSMenuItem"; title = "1.50"; ObjectID = "1348"; */
+"1348.title" = "1.50";
+
+/* Class = "NSTextFieldCell"; title = "Volume Identifier:"; ObjectID = "2467"; */
+"2467.title" = "卷宗識別︰";
+
+/* Class = "NSTextFieldCell"; title = "Time stamp:"; ObjectID = "2469"; */
+"2469.title" = "時間標記︰";
+
+/* Class = "NSTextFieldCell"; title = "Application Identifier:"; ObjectID = "2471"; */
+"2471.title" = "應用程式識別︰";
+
+/* Class = "NSTextFieldCell"; title = "Primary Descriptor:"; ObjectID = "2473"; */
+"2473.title" = "主要描述︰";
+
+/* Class = "NSTextFieldCell"; title = "Sequence Number:"; ObjectID = "2475"; */
+"2475.title" = "連續編號︰";
+
+/* Class = "NSTextFieldCell"; title = "Maximum Number:"; ObjectID = "2477"; */
+"2477.title" = "最大編號︰";
+
+/* Class = "NSTextFieldCell"; title = "Interchange Level:"; ObjectID = "2479"; */
+"2479.title" = "互換等級︰";
+
+/* Class = "NSTextFieldCell"; title = "Maximum Level:"; ObjectID = "2481"; */
+"2481.title" = "最大等級︰";
+
+/* Class = "NSTextFieldCell"; title = "Application Suffix:"; ObjectID = "2483"; */
+"2483.title" = "應用程式字尾︰";
+
+/* Class = "NSTextFieldCell"; title = "Implementation Use:"; ObjectID = "2485"; */
+"2485.title" = "履行使用︰";
+
+
+
+/* Class = "NSTabViewItem"; label = "All"; ObjectID = "1233"; */
+"1233.label" = "全部";
+
+/* Class = "NSTextFieldCell"; title = "Default Date:"; ObjectID = "2428"; */
+"2428.title" = "預設日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Creation Date:"; ObjectID = "2430"; */
+"2430.title" = "建立日期︰";
+
+/* Class = "NSTextFieldCell"; title = "Modification Date:"; ObjectID = "2432"; */
+"2432.title" = "修正日期︰";
+
+/* Class = "NSTextFieldCell"; title = "UID:"; ObjectID = "2295"; */
+"2295.title" = "UID:";
+
+/* Class = "NSTextFieldCell"; title = "GID:"; ObjectID = "2297"; */
+"2297.title" = "GID:";
+
+/* Class = "NSButtonCell"; title = "setgid"; ObjectID = "1540"; */
+"1540.title" = "setgid";
+
+/* Class = "NSTextFieldCell"; title = "owner:"; ObjectID = "1542"; */
+"1542.title" = "持有人︰";
+
+/* Class = "NSTextFieldCell"; title = "group:"; ObjectID = "1543"; */
+"1543.title" = "群組︰";
+
+/* Class = "NSTextFieldCell"; title = "other:"; ObjectID = "1544"; */
+"1544.title" = "其他︰";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "1529"; */
+"1529.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "1530"; */
+"1530.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "1531"; */
+"1531.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "1532"; */
+"1532.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "1533"; */
+"1533.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "1534"; */
+"1534.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "read"; ObjectID = "1535"; */
+"1535.title" = "讀取";
+
+/* Class = "NSButtonCell"; title = "write"; ObjectID = "1536"; */
+"1536.title" = "寫入";
+
+/* Class = "NSButtonCell"; title = "execute"; ObjectID = "1537"; */
+"1537.title" = "製作";
+
+/* Class = "NSButtonCell"; title = "setuid"; ObjectID = "1538"; */
+"1538.title" = "setuid";
+
+/* Class = "NSButtonCell"; title = "sticky bit"; ObjectID = "1539"; */
+"1539.title" = "sticky bit";
+
+/* Class = "NSButtonCell"; title = "setuid"; ObjectID = "2487"; */
+"2487.title" = "setuid";
+
+/* Class = "NSButtonCell"; title = "setuid"; ObjectID = "2494"; */
+"2494.title" = "setuid";
+
+/* Class = "NSButtonCell"; title = "setuid"; ObjectID = "2497"; */
+"2497.title" = "setuid";
+
+/* Class = "NSButtonCell"; title = "setuid"; ObjectID = "2491"; */
+"2491.title" = "setuid";
+
+/* Class = "NSButtonCell"; title = "setuid"; ObjectID = "2492"; */
+"2492.title" = "setuid";
+
+
+// Audio View
+
+/* Class = "NSTextFieldCell"; title = "CD-Text for Track:"; ObjectID = "2326"; */
+"2326.title" = "軌道CD-Text︰";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "2302"; */
+"2302.title" = "標題︰";
+
+/* Class = "NSTextFieldCell"; title = "Performer:"; ObjectID = "2306"; */
+"2306.title" = "演唱者︰";
+
+/* Class = "NSTextFieldCell"; title = "Composer:"; ObjectID = "2315"; */
+"2315.title" = "作曲者︰";
+
+/* Class = "NSTextFieldCell"; title = "Songwriter:"; ObjectID = "2308"; */
+"2308.title" = "歌曲作者︰";
+
+/* Class = "NSTextFieldCell"; title = "Arranger:"; ObjectID = "2304"; */
+"2304.title" = "編曲者︰";
+
+/* Class = "NSTextFieldCell"; title = "Message / Notes:"; ObjectID = "2303"; */
+"2303.title" = "訊息/註解︰";
+
+/* Class = "NSTextFieldCell"; title = "Private Use:"; ObjectID = "2312"; */
+"2312.title" = "個人使用︰";
+
+/* Class = "NSTextFieldCell"; title = "Features:"; ObjectID = "2327"; */
+"2327.title" = "特徵︰";
+
+/* Class = "NSTextFieldCell"; title = "Gap before track:"; ObjectID = "2320"; */
+"2320.title" = "在軌道前分隔︰";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "2318"; */
+"2318.title" = "秒";
+
+/* Class = "NSButtonCell"; title = "Pre-emphasis of 50/15µs"; ObjectID = "2316"; */
+"2316.title" = "預先加強50/15µs";
+
+/* Class = "NSTextFieldCell"; title = "ISRC:"; ObjectID = "2329"; */
+"2329.title" = "ISRC:";
+
+/* Class = "NSTextFieldCell"; title = "Invalid"; ObjectID = "2328"; */
+"2328.title" = "無效";
+
+/* Class = "NSButtonCell"; title = "Also include in CD-Text"; ObjectID = "2322"; */
+"2322.title" = "包含在CD-Text";
+
+/* Class = "NSButtonCell"; title = "Index points"; ObjectID = "2319"; */
+"2319.title" = "索引點";
+
+
+// Audio Disc View
+
+/* Class = "NSTextFieldCell"; title = "CD-Text for Disc:"; ObjectID = "2354"; */
+"2354.title" = "光碟CD-Text︰";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "2345"; */
+"2345.title" = "標題︰";
+
+/* Class = "NSTextFieldCell"; title = "Performer:"; ObjectID = "2332"; */
+"2332.title" = "演唱者︰";
+
+/* Class = "NSTextFieldCell"; title = "Composer:"; ObjectID = "2344"; */
+"2344.title" = "作曲者︰";
+
+/* Class = "NSTextFieldCell"; title = "Songwriter:"; ObjectID = "2340"; */
+"2340.title" = "歌曲作者︰";
+
+/* Class = "NSTextFieldCell"; title = "Arranger:"; ObjectID = "2342"; */
+"2342.title" = "編曲者︰";
+
+/* Class = "NSTextFieldCell"; title = "Message / Notes:"; ObjectID = "2337"; */
+"2337.title" = "訊息/註解︰";
+
+/* Class = "NSTextFieldCell"; title = "Disc Ident:"; ObjectID = "2336"; */
+"2336.title" = "光碟識別︰";
+
+/* Class = "NSTextFieldCell"; title = "Genre Code:"; ObjectID = "2343"; */
+"2343.title" = "曲風編碼︰";
+
+/* Class = "NSMenuItem"; title = "Other..."; ObjectID = "1613"; */
+"1613.title" = "其他…";
+
+/* Class = "NSMenuItem"; title = "Rock"; ObjectID = "1614"; */
+"1614.title" = "Rock";
+
+/* Class = "NSMenuItem"; title = "Hip-Hop"; ObjectID = "1615"; */
+"1615.title" = "Hip-Hop";
+
+/* Class = "NSTextFieldCell"; title = "Genre Name:"; ObjectID = "2331"; */
+"2331.title" = "曲風名稱︰";
+
+/* Class = "NSTextFieldCell"; title = "Private Use:"; ObjectID = "2348"; */
+"2348.title" = "個人使用︰";
+
+/* Class = "NSTextFieldCell"; title = "MCN:"; ObjectID = "2355"; */
+"2355.title" = "MCN:";
+
+
+// Audio MP3 View
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "1743"; */
+"1743.label" = "一般";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "2365"; */
+"2365.title" = "標題︰";
+
+/* Class = "NSTextFieldCell"; title = "Artist:"; ObjectID = "2372"; */
+"2372.title" = "演唱者︰";
+
+/* Class = "NSTextFieldCell"; title = "Composer:"; ObjectID = "2376"; */
+"2376.title" = "作曲者︰";
+
+/* Class = "NSTextFieldCell"; title = "Album:"; ObjectID = "2373"; */
+"2373.title" = "專輯︰";
+
+/* Class = "NSTextFieldCell"; title = "Genre:"; ObjectID = "2374"; */
+"2374.title" = "曲風︰";
+
+/* Class = "NSTextFieldCell"; title = "Year:"; ObjectID = "2378"; */
+"2378.title" = "年︰";
+
+/* Class = "NSTextFieldCell"; title = "Track Number:"; ObjectID = "2381"; */
+"2381.title" = "軌道編號︰";
+
+/* Class = "NSTextFieldCell"; title = "of"; ObjectID = "2383"; */
+"2383.title" = "之";
+
+/* Class = "NSTextFieldCell"; title = "Disc Number:"; ObjectID = "2380"; */
+"2380.title" = "光碟編號︰";
+
+/* Class = "NSTextFieldCell"; title = "of"; ObjectID = "2386"; */
+"2386.title" = "之";
+
+/* Class = "NSTextFieldCell"; title = "Message / Notes:"; ObjectID = "2375"; */
+"2375.title" = "訊息/註解︰";
+
+
+/* Class = "NSTabViewItem"; label = "Artwork"; ObjectID = "1741"; */
+"1741.label" = "專輯封面";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "2360"; */
+"2360.title" = "+";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "2361"; */
+"2361.title" = "-";
+
+/* Class = "NSButtonCell"; title = ">"; ObjectID = "2362"; */
+"2362.title" = ">";
+
+/* Class = "NSButtonCell"; title = "<"; ObjectID = "2363"; */
+"2363.title" = "<";
+
+/* Class = "NSTextFieldCell"; title = "0 of 0"; ObjectID = "2364"; */
+"2364.title" = "0之0";
+
+
+// Video DVD View
+
+/* Class = "NSTextFieldCell"; title = "Chapters:"; ObjectID = "2390"; */
+"2390.title" = "章節︰";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "1833"; */
+"1833.headerCell.title" = "時間";
+
+/* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "1834"; */
+"1834.headerCell.title" = "標題";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "2391"; */
+"2391.title" = "+";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "2392"; */
+"2392.title" = "-";
+
+
+// Chapter sheet
+
+/* Class = "NSTextFieldCell"; title = "Preview:"; ObjectID = "2394"; */
+"2394.title" = "預覽︰";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "2395"; */
+"2395.title" = "新增";
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "2396"; */
+"2396.title" = "停止";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "2400"; */
+"2400.title" = "標題︰";
+
+
+// Choose file
+
+/* Class = "NSWindow"; title = "Choose File"; ObjectID = "1195"; */
+"1195.title" = "選擇檔案";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "2293"; */
+"2293.title" = "確定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "2294"; */
+"2294.title" = "取消";

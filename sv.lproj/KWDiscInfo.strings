@@ -1,0 +1,27 @@
+
+/* Class = "NSWindow"; title = "Disc Info"; ObjectID = "5"; */
+"5.title" = "Disc Info";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "13"; */
+"13.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item1"; ObjectID = "14"; */
+"14.title" = "Item1";
+
+/* Class = "NSMenuItem"; title = "Item2"; ObjectID = "15"; */
+"15.title" = "Item2";
+
+/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "16"; */
+"16.title" = "Item3";
+
+/* Class = "NSTextFieldCell"; title = "Free space:"; ObjectID = "28"; */
+"28.title" = "Free space:";
+
+/* Class = "NSTextFieldCell"; title = "Writable:"; ObjectID = "32"; */
+"32.title" = "Writable:";
+
+/* Class = "NSTextFieldCell"; title = "Used space:"; ObjectID = "34"; */
+"34.title" = "Used space:";
+
+/* Class = "NSTextFieldCell"; title = "Kind:"; ObjectID = "36"; */
+"36.title" = "Kind:";

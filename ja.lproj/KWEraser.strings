@@ -1,0 +1,22 @@
+// Main Panel
+
+/* Class = "NSTextFieldCell"; title = "Erase Disc In:"; ObjectID = "39"; */
+"39.title" = "ディスク消去場所:";
+
+/* Class = "NSTextFieldCell"; title = "Erase Method:"; ObjectID = "41"; */
+"41.title" = "消去法:";
+
+/* Class = "NSButtonCell"; title = "Quickly"; ObjectID = "17"; */
+"17.title" = "高速消去";
+
+/* Class = "NSButtonCell"; title = "Completely"; ObjectID = "16"; */
+"16.title" = "完全消去";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "37"; */
+"37.title" = "閉じる";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "42"; */
+"42.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Erase"; ObjectID = "40"; */
+"40.title" = "消去";

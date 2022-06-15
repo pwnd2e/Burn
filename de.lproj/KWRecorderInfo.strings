@@ -1,0 +1,22 @@
+// Main Panel
+
+/* Class = "NSWindow"; title = "Recorder Info"; ObjectID = "5"; */
+"5.title" = "Brenner Info";
+
+/* Class = "NSTextFieldCell"; title = "Product:"; ObjectID = "42"; */
+"42.title" = "Produkt:";
+
+/* Class = "NSTextFieldCell"; title = "Vendor:"; ObjectID = "44"; */
+"44.title" = "Hersteller:";
+
+/* Class = "NSTextFieldCell"; title = "Writes:"; ObjectID = "38"; */
+"38.title" = "Geschw.:";
+
+/* Class = "NSTextFieldCell"; title = "Connection:"; ObjectID = "36"; */
+"36.title" = "Verbindung:";
+
+/* Class = "NSTextFieldCell"; title = "Cache:"; ObjectID = "46"; */
+"46.title" = "Cache:";
+
+/* Class = "NSTextFieldCell"; title = "Buffer Underrun Prevention:"; ObjectID = "48"; */
+"48.title" = "Buffer-Underrun-Schutz:";

@@ -1,0 +1,10 @@
+// Main Panel
+
+/* Class = "NSTextFieldCell"; title = "Eject Disc In:"; ObjectID = "25"; */
+"25.title" = "Извлечь диск из:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "22"; */
+"22.title" = "Отменить";
+
+/* Class = "NSButtonCell"; title = "Eject"; ObjectID = "21"; */
+"21.title" = "Извлечь";

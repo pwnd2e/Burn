@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UDSP</key>
+	<string>Immagine singola</string>
+	<key>Eject Disc</key>
+	<string>Espelli Disco</string>
+	<key>Unsupported Toc file</key>
+	<string>File TOC non supportato</string>
+	<key>Finishing...</key>
+	<string>Finalizzazione...</string>
+	<key>%@ (Unknown error)</key>
+	<string>%@ (Errore sconosciuto)</string>
+	<key>Mount Image</key>
+	<string>Monta Immagine</string>
+	<key>Can&apos;t determine disc format</key>
+	<string>Impossibile determinare il formato</string>
+	<key>Finished converting</key>
+	<string>Conversione terminata</string>
+	<key>Failed to burn &apos;%@&apos;</key>
+	<string>Masterizzazione fallita &apos;%@&apos;</string>
+	<key>Copying disc</key>
+	<string>Copia disco</string>
+	<key>Remuxing: </key>
+	<string>Remuxing: </string>
+	<key>Closing session</key>
+	<string>Chiusura sessione</string>
+	<key>Choose a location to save a temporary folder</key>
+	<string>Scegli dove salvare cartella temporanea</string>
+	<key>Finished burning</key>
+	<string>Masterizzazione terminata</string>
+	<key>Some files specified in the %@ file are missing.</key>
+	<string>Alcuni files specificati nel file %@ sono mancanti</string>
+	<key>Writing track (%@)</key>
+	<string>Scrittura traccia (%@)</string>
+	<key>UDSB</key>
+	<string>Gruppo Immagini singole</string>
+	<key>Mounting: %@</key>
+	<string>Montaggio: %@</string>
+	<key>The PC (Joliet) or ISO9660 filesystem can only handle files smaller than 2GB</key>
+	<string>Il filesystem PC (Joliet) or ISO9660 può gestire solo file minori di 2GB</string>
+	<key>%.0f KB</key>
+	<string>%.0f KB</string>
+	<key>Burn failed to encode one file</key>
+	<string>Burn non è riuscito a codificare un file</string>
+	<key>There was a problem authoring the DVD</key>
+	<string>C&apos;è stato un problema nel creare il DVD</string>
+	<key>Copy</key>
+	<string>Copia</string>
+	<key>%@ MB</key>
+	<string>%@ MB</string>
+	<key>The Burn file is corrupt or a wrong filetype</key>
+	<string>Il file Burn  corrotto o del tipo sbagliato</string>
+	<key>Burning &apos;%@&apos;</key>
+	<string>Masterizzazione &apos;%@&apos;</string>
+	<key>Waiting for the drive...</key>
+	<string>In attesa del masterizzatore...</string>
+	<key>Creating image file</key>
+	<string>Creazione file immagine</string>
+	<key>Failed to save Burn file</key>
+	<string>Salvataggio del file Burn non riuscito</string>
+	<key>Finished converting %ld files</key>
+	<string>Conversione terminata %ld files</string>
+	<key>Preview</key>
+	<string>Anteprima</string>
+	<key>One incompatible file</key>
+	<string>Un file incompatibile</string>
+	<key>Audio</key>
+	<string>Audio</string>
+	<key>Total size: %@</key>
+	<string>Dimensione totale: %@</string>
+	<key>One protected mp4 file</key>
+	<string>Un file MP4 protetto</string>
+	<key>%@ GB</key>
+	<string>%@ GB</string>
+	<key>%@ (Couldn&apos;t get attributes)</key>
+	<string>%@ (Impossibile determinare gli attributi)</string>
+	<key>Opening track %ld</key>
+	<string>Apertura traccia %ld</string>
+	<key>File path: %@</key>
+	<string>Percorso file: %@</string>
+	<key>%ld files</key>
+	<string>%ld files</string>
+	<key>Failed to create &apos;%@&apos;</key>
+	<string>Creazione di &apos;%@&apos; non riuscita</string>
+	<key>Not enough space</key>
+	<string>Non c&apos;è abbastanza spazio</string>
+	<key>Choose a location to save a copy of the disc</key>
+	<string>Scegli dove salvare una copia del disco</string>
+	<key>Yes</key>
+	<string>SI</string>
+	<key>Choose a location to save the re-muxed files</key>
+	<string>Scegli dove salvare i files re-muxed</string>
+	<key>%@ (No video)</key>
+	<string>%@ (Nessun Video)</string>
+	<key>Decoding sound: %@</key>
+	<string>Decodifica suono: %@</string>
+	<key>UDIF</key>
+	<string>Leggi/Scrivi immagine</string>
+	<key>UDTO</key>
+	<string>DVD/CD master</string>
+	<key>Would you like to convert those files to %@?%@</key>
+	<string>Vuoi convertire questi files in %@?%@</string>
+	<key>Verifying...</key>
+	<string>Verifica...</string>
+	<key>Unmount</key>
+	<string>Smonta</string>
+	<key>Video</key>
+	<string>Video</string>
+	<key>Burn Temporary</key>
+	<string>Masterizzazione temporanea</string>
+	<key>Choose a location to save the muxed file</key>
+	<string>Scegli dove salvare i files muxed</string>
+	<key>Maximum Possible</key>
+	<string>Massima possibile</string>
+	<key>Failed converting</key>
+	<string>Conversione fallita</string>
+	<key>Writing track %ld of %ld (%@)</key>
+	<string>Scrittura traccia %ld di %ld (%@)</string>
+	<key>Creating: </key>
+	<string>Creazione: </string>
+	<key>Burn</key>
+	<string>Masterizza</string>
+	<key>Authoring DVD...</key>
+	<string>Creazione DVD...</string>
+	<key>Can&apos;t overwrite &apos;%@&apos; in &apos;%@&apos;</key>
+	<string>Non posso sovrascrivere &apos;%@&apos; in &apos;%@&apos;</string>
+	<key>Burning failed</key>
+	<string>Masterizzazione fallita</string>
+	<key>Processing: </key>
+	<string>In corso: </string>
+	<key>Ready to copy</key>
+	<string>Pronto per la copia</string>
+	<key>Some incompatible files</key>
+	<string>Alcuni files sono incompatibili</string>
+	<key>Waiting for a disc to be inserted...</key>
+	<string>In attesa dell&apos;inserimento del disco...</string>
+	<key>Creating DVD Theme</key>
+	<string>Creazione tema DVD</string>
+	<key>There was a problem erasing the disc</key>
+	<string>C&apos;è stato un problema nella cancellazione del disco</string>
+	<key>Choose a location to save the %@ files</key>
+	<string>Scegli dove salvare i files %@</string>
+	<key>Failed to create temporary folder</key>
+	<string>Creazione della cartella temporanea non riuscita</string>
+	<key>Rken</key>
+	<string>Immagine compressa</string>
+	<key>UDRW</key>
+	<string>Leggi/Scrivi immagine</string>
+	<key>%@ (No audio/video)</key>
+	<string>%@ (Nessun Audio/Video)</string>
+	<key>Generating DVD folder</key>
+	<string>Creazione cartella DVD</string>
+	<key>The disc has been succesfully erased</key>
+	<string>Il disco è stato cancellato con successo</string>
+	<key>%@ (No audio)</key>
+	<string>%@ (Nessun Audio)</string>
+	<key>Burner</key>
+	<string>Masterizzatore</string>
+	<key>No disc</key>
+	<string>Nessun disco</string>
+	<key>Open...</key>
+	<string>Apertura...</string>
+	<key>There was a problem copying the disc</key>
+	<string>C&apos;è stato un problema nel copiare il disco</string>
+	<key>UDCO</key>
+	<string>Immagine compressa</string>
+	<key>No discs, try inserting a cd/dvd.</key>
+	<string>Nessun disco, inserire un cd/dvd.</string>
+	<key>Scanning for disks...</key>
+	<string>Cerco il disco...</string>
+	<key>Choose</key>
+	<string>Scegli</string>
+	<key>Writing track</key>
+	<string>Scrittura traccia</string>
+	<key>Encoding: </key>
+	<string>Codifica: </string>
+	<key>Track %ld %@</key>
+	<string>Traccia %ld %@</string>
+	<key>These files can&apos;t be converted</key>
+	<string>Questi files non possono essere convertiti</string>
+	<key>Finished converting 1 file</key>
+	<string>Conversione terminata 1 file</string>
+	<key>Total time: %@</key>
+	<string>Durata totale: %@</string>
+	<key>A cue/bin file needs to be burned on a CD</key>
+	<string>Occorre un file cue/bin da masterizzare su un CD</string>
+	<key>Format</key>
+	<string>Format</string>
+	<key>Mounting image failed</key>
+	<string>Montaggio immagine fallita</string>
+	<key>Failed to eject</key>
+	<string>Espulsione non riuscita</string>
+	<key>UDxx</key>
+	<string>Troncone UDIF</string>
+	<key>Some protected mp4 files</key>
+	<string>Alcuni files MP4 sono protetti</string>
+	<key>Erasing disc</key>
+	<string>Cancellazione disco</string>
+	<key>Rdxx</key>
+	<string>Immagine sola lettura</string>
+	<key>There was a problem mounting the image</key>
+	<string>C&apos;è stato un problema nel montare il file immagine</string>
+	<key>Size</key>
+	<string>Dimensioni</string>
+	<key>Convert</key>
+	<string>Converti</string>
+	<key>Maximum Possible (%.0fx)</key>
+	<string>Massima possibile (%.0fx)</string>
+	<key>UFBI</key>
+	<string>Tutto il disco</string>
+	<key>%@ free</key>
+	<string>%@ disponibile</string>
+	<key>Save...</key>
+	<string>Salva...</string>
+	<key>SPARSEBUNDLE</key>
+	<string>Gruppo Immagini singole</string>
+	<key>Erasing failed</key>
+	<string>Cancellazione fallita</string>
+	<key>Mounting disk image</key>
+	<string>Monta immagine disco</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Eject</key>
+	<string>Espelli</string>
+	<key>UDZO</key>
+	<string>Immagine compressa</string>
+	<key>Authoring failed</key>
+	<string>Creazione DVD fallita</string>
+	<key>Close</key>
+	<string>Chiudi</string>
+	<key>Ready to erase</key>
+	<string>Pronto per la cancellazione</string>
+	<key>Checking files...</key>
+	<string>Verifica files...</string>
+	<key>SPARSE</key>
+	<string>Immagine singola</string>
+	<key>Opening track</key>
+	<string>Apertura traccia</string>
+	<key>Burn failed to encode some files</key>
+	<string>Burn non è riuscito a codificare alcuni files</string>
+	<key>DVD-Video</key>
+	<string>DVD-Video</string>
+	<key>General</key>
+	<string>Generale</string>
+	<key>Cue file</key>
+	<string>File archivio</string>
+	<key>Checking file...</key>
+	<string>Verifica file...</string>
+	<key>Image not supported on Panther.
+
+To still use it:
+Mount the image and drop the mounted image in the window.</key>
+	<string>Immagine non supportata in Panther.
+
+Per usarla ancora:
+Montare l&apos;immagine e rilasciare l&apos;immagine montata nella finestra.</string>
+	<key>
+(Note: there is a protected mp4 file which can&apos;t be converted)</key>
+	<string>
+(Nota: c&apos;è un file MP4 protetto che non può essere convertito)</string>
+	<key>&apos;%@&apos; was burned succesfully</key>
+	<string>&apos;%@&apos; è stato masterizzato con successo</string>
+	<key>This file can&apos;t be converted</key>
+	<string>Questo file non può essere convertito</string>
+	<key>No Recorder</key>
+	<string>Nessun Masterizzatore</string>
+	<key>Ready to burn</key>
+	<string>Pronto per la masterizzazione</string>
+	<key>Mount</key>
+	<string>Monta</string>
+	<key>UDRO</key>
+	<string>Immagine sola lettura</string>
+	<key>Can&apos;t create &apos;%@&apos; in &apos;%@&apos;</key>
+	<string>Non posso creare &apos;%@&apos; in &apos;%@&apos;</string>
+	<key>Cancel</key>
+	<string>Annulla</string>
+	<key>Closing track %ld of %ld (%@)</key>
+	<string>Chiusura traccia %ld di %ld (%@)</string>
+	<key>Advanced</key>
+	<string>Avanzate</string>
+	<key>Could not eject media from the drive</key>
+	<string>Non posso espellere il disco dal drive</string>
+	<key>Data</key>
+	<string>Dati</string>
+	<key>Choose an image file</key>
+	<string>Scegli un file immagine</string>
+	<key>Title Menu</key>
+	<string>Menu Titolo</string>
+	<key>Creating image file &apos;%@&apos;</key>
+	<string>Creazione file immagine &apos;%@&apos;</string>
+	<key>Scanning for files and folders</key>
+	<string>Cerco files e cartelle</string>
+	<key>Invalid Burn file</key>
+	<string>File Burn non valido</string>
+	<key>Image created</key>
+	<string>Immagine creata</string>
+	<key>Unmount Image</key>
+	<string>Smonta Immagine</string>
+	<key>Missing files</key>
+	<string>File mancante</string>
+	<key>DC42</key>
+	<string>Immagine Disco 4.2</string>
+	<key>%@ (Unknown format)</key>
+	<string>%@ (Formato sconosciuto)</string>
+	<key>Failed to copy &apos;%@&apos; to &apos;%@&apos;. %@</key>
+	<string>Copia di &apos;%@&apos; su &apos;%@&apos;. %@  non riuscita</string>
+	<key>UNIV</key>
+	<string>Immagine Ibrida</string>
+	<key>Failed to delete &apos;%@&apos;.</key>
+	<string>Cancellazione di &apos;%@&apos; non riuscita</string>
+	<key>Open</key>
+	<string>Apri</string>
+	<key>Failed to write &apos;%@&apos; to &apos;%@&apos;</key>
+	<string>Scrittura di &apos;%@&apos; su &apos;%@&apos; non riuscita</string>
+	<key>Time</key>
+	<string>Durata</string>
+	<key>Closing track (%@)</key>
+	<string>Chiusura traccia (%@)</string>
+	<key>Audio CD</key>
+	<string>CD Audio</string>
+	<key>%@ (Unsupported audio)</key>
+	<string>%@ (Audio non supportato)</string>
+	<key>To burn a Audio-CD the media should be a CD</key>
+	<string>Per masterizzare un Audio-CD bisogna inserire un CD</string>
+	<key>%@ Help</key>
+	<string>Aiuto %@</string>
+	<key>RdWr</key>
+	<string>Leggi/Scrivi immagine</string>
+	<key>Untitled Folder</key>
+	<string>Cartella Senza Titolo</string>
+	<key>Are you sure you want to cancel?</key>
+	<string>Sei sicuro di voler cancellare?</string>
+	<key>Would you like to convert that file to %@?%@</key>
+	<string>Vuoi convertire questo file in %@?%@</string>
+	<key>Finished erasing</key>
+	<string>Cancellazione terminata</string>
+	<key>Only Mode1 and Audio tracks are supported</key>
+	<string>Solo le traccie Mode1 e Audio sono supportate</string>
+	<key>Chapter Menu</key>
+	<string>Menu Capitolo</string>
+	<key>Succesfully created a disk image</key>
+	<string>Immagine disco creata con successo</string>
+	<key>Choose a location to save the image file</key>
+	<string>Scegli dove salvare il file immagine</string>
+	<key>Preparing to encode</key>
+	<string>Preparazione della codifica</string>
+	<key>No CD</key>
+	<string>Nessun CD</string>
+	<key>Toc file</key>
+	<string>File Toc</string>
+	<key>Image failed</key>
+	<string>Immagine fallita</string>
+	<key>ROCo</key>
+	<string>Immagine compressa</string>
+	<key>Untitled</key>
+	<string>Senza titolo</string>
+	<key>Some files are to large</key>
+	<string>Alcuni files sono troppo grandi</string>
+	<key>There was a problem creating the image</key>
+	<string>C&apos;è stato un problema nel creare il file immagine</string>
+	<key>No</key>
+	<string>No</string>
+	<key>Processing: %@ (%i of %i)</key>
+	<string>In corso: %@ (%i di %i)</string>
+	<key>Unsupported Image</key>
+	<string>Immagine disco non supportata</string>
+	<key>Unknown disk image</key>
+	<string>Immagine disco sconosciuta</string>
+	<key>Continue</key>
+	<string>Continua</string>
+	<key>Writing tracks</key>
+	<string>Scrittura tracce</string>
+	<key>UDBZ</key>
+	<string>Immagine compressa</string>
+	<key>Generating DVD folder: (%.0f%@)</key>
+	<string>Creazione cartella DVD: (%.0f%@)</string>
+	<key>%@ TB</key>
+	<string>%@ TB</string>
+	<key>UDF / ISO9660 (only)</key>
+	<string>UDF / ISO9660 (solo)</string>
+	<key>IPOD</key>
+	<string>Imagine iPod</string>
+	<key>Still try to burn the disc?</key>
+	<string>Masterizzo lo stesso il disco?</string>
+	<key>Encoding file %i of %i to %@</key>
+	<string>Codifica file %i di %i su %@</string>
+	<key>Preparing...</key>
+	<string>In preparazione...</string>
+	<key>After canceling the disc can&apos;t be used anymore</key>
+	<string>Dopo la cancellazione il disco non potr essere pi usato</string>
+	<key>Choose a location to save the burn file</key>
+	<string>Scegli dove salvare il file Burn</string>
+	<key>Failed to install theme in the &apos;Application Support&apos; folder</key>
+	<string>Installazione del tema nella cartella &apos;Supporto Applicazione&apos; non riuscita</string>
+	<key>Select to create a data disc</key>
+	<string>Scegliere per creare un disco dati</string>
+	<key>Select to create a audio disc</key>
+	<string>Scegliere per creare un disco audio</string>
+	<key>Select to create a video disc</key>
+	<string>Scegliere per creare un disco video</string>
+	<key>Select to copy a disc or disk image</key>
+	<string>Scegliere per copiare un disco o un&apos;immagine disco</string>
+	<key>menu-help-mail-link</key>
+	<string>mailto:support@kiwifruitware.org?subject=Burn%20Support&amp;body=Burn%20version:%0DmacOS%20version:%0DSteps%20to%20reproduce:%0DScreenshots%20/%20Movies:</string>
+</dict>
+</plist>

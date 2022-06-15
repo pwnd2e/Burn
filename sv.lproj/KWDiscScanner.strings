@@ -1,0 +1,15 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "11"; */
+"11.headerCell.title" = "Size";
+
+/* Class = "NSTableColumn"; headerCell.title = "Volume Name"; ObjectID = "12"; */
+"12.headerCell.title" = "Volume Name";
+
+/* Class = "NSButtonCell"; title = "Choose"; ObjectID = "40"; */
+"40.title" = "Choose";
+
+/* Class = "NSTextFieldCell"; title = "Scanning for disks..."; ObjectID = "41"; */
+"41.title" = "Scanning for disks...";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "42"; */
+"42.title" = "Cancel";

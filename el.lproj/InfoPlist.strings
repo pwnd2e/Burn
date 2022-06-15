@@ -1,0 +1,10 @@
+/* Basic info */
+NSHumanReadableCopyright = "Kiwi Fruitware 2021";
+CFBundleName = "Burn";
+CFBundleDisplayName = "Burn";
+CFBundleHelpBookName = "Burn Help";
+
+/* File types */
+"Image document" = "Έγγραφο Εικόνας";
+"Burn document" = "Έγγραφο Burn";
+"Theme document" = "Έγγραφο Θέματος";
